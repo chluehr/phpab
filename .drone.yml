@@ -7,7 +7,6 @@ steps:
   image: plugins/docker
   settings:
     repo: chluehr/phpab
-    auto_tag: true
     tags:
       - latest
       - '1.29.2'
